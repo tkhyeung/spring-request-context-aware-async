@@ -2,9 +2,9 @@
 
 Demo Project of
 
-  Passing along request context and MDC to new thread
-  Also retain the header after response is comitted.
-  Done by caching the headerMap with custom request wrapper
+- Passing along request context and MDC to new thread
+- Also retain the header after response is comitted.
+- Done by caching the headerMap with custom request wrapper
 
 Swagger:
 
